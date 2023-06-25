@@ -1,0 +1,1 @@
+THis this the readme for the 0x03_SHELL_VARIABLES_EXPANSIONS
